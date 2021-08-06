@@ -1,0 +1,12 @@
+C:\repos\MathLibrary\MathLibrary\bin\Debug\netcoreapp3.1\MathLibrary.exe
+C:\repos\MathLibrary\MathLibrary\bin\Debug\netcoreapp3.1\MathLibrary.deps.json
+C:\repos\MathLibrary\MathLibrary\bin\Debug\netcoreapp3.1\MathLibrary.runtimeconfig.json
+C:\repos\MathLibrary\MathLibrary\bin\Debug\netcoreapp3.1\MathLibrary.runtimeconfig.dev.json
+C:\repos\MathLibrary\MathLibrary\bin\Debug\netcoreapp3.1\MathLibrary.dll
+C:\repos\MathLibrary\MathLibrary\bin\Debug\netcoreapp3.1\MathLibrary.pdb
+C:\repos\MathLibrary\MathLibrary\obj\Debug\netcoreapp3.1\MathLibrary.AssemblyInfoInputs.cache
+C:\repos\MathLibrary\MathLibrary\obj\Debug\netcoreapp3.1\MathLibrary.AssemblyInfo.cs
+C:\repos\MathLibrary\MathLibrary\obj\Debug\netcoreapp3.1\MathLibrary.csproj.CoreCompileInputs.cache
+C:\repos\MathLibrary\MathLibrary\obj\Debug\netcoreapp3.1\MathLibrary.dll
+C:\repos\MathLibrary\MathLibrary\obj\Debug\netcoreapp3.1\MathLibrary.pdb
+C:\repos\MathLibrary\MathLibrary\obj\Debug\netcoreapp3.1\MathLibrary.genruntimeconfig.cache
